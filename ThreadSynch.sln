@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreadSynch", "ThreadSync\ThreadSynch.csproj", "{54EE2F0A-8915-4119-A0D5-7981EB483E53}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreadSyncUnitTests", "test\ThreadSyncUnitTests.csproj", "{DB5B0BB5-9531-4E54-BA56-FCF62B3CF820}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{54EE2F0A-8915-4119-A0D5-7981EB483E53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54EE2F0A-8915-4119-A0D5-7981EB483E53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54EE2F0A-8915-4119-A0D5-7981EB483E53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB5B0BB5-9531-4E54-BA56-FCF62B3CF820}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB5B0BB5-9531-4E54-BA56-FCF62B3CF820}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB5B0BB5-9531-4E54-BA56-FCF62B3CF820}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB5B0BB5-9531-4E54-BA56-FCF62B3CF820}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

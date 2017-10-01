@@ -15,7 +15,7 @@
     <PackageReference Include="System.Runtime" Version="4.3.0" />
     <PackageReference Include="xunit.runner.visualstudio" Version="2.2.0" />
     <PackageReference Include="xunit" Version="2.2.0" />
-    <ProjectReference Include="../MyProject/MyProject.csproj" />
+    <ProjectReference Include="../ThreadSync/ThreadSynch.csproj" />
   </ItemGroup>
 
 </Project>
